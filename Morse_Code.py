@@ -1,5 +1,5 @@
 '''
-# Purpose: Change inputed words into Morse Code
+# Purpose: Change inputed words into Morse Code and Changes inputed Morse Code into words
 # 
 # @author Harry Cogdill
 # @version June 30, 2019
